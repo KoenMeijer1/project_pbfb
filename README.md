@@ -1,4 +1,4 @@
-# Quality assessment of RNAseq data in .fastq files.
+# Quality assessment of RNAseq data in .fastq files
 Project for course Practical Bioinformatics for Biologists (2018) by Koen Meijer and Emma Gerrits.
 
 The file project_pbfb.py is a python script which analyzes the quality of RNAseq data in fastq files. From this github page the following files have to be downloaded: project_pbfb.py and histogram.R. These files have to be located in the directory of your fastq files. The project_pbfb.py script requires the following to be installed: NumPy and R version 3.4.3 with the ggplot2 package.
