@@ -1,3 +1,2 @@
 # project_pbfb
-Project for course Practical Bioinformatics for Biologists\n
-Quality assessment in  .fastq files
+Project for course Practical Bioinformatics for Biologists about the quality assessment of RNAseq data in .fastq files.
